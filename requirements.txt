@@ -1,8 +1,12 @@
-matplotlib
-seaborn
+# Data processing
 numpy
+scipy
 xarray
 netcdf4-python
 wrf-python
 pandas
 
+# Plotting
+matplotlib
+seaborn
+cmcrameri
