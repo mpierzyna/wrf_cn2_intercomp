@@ -4,7 +4,7 @@
 
 This repository accompanies the work published in Applied Optics as
 
-> Pierzyna, M., Hartogensis, O., Basu, S., and Saathof R. "Intercomparison of flux, gradient, and variance-based optical turbulence ($C_n^2$) parameterizations." _Applied Optics_, vol. 63, no. 16, 2024, pp. E107-E119. [https://doi.org/10.1364/AO.519942]([https://doi.org/10.1364/AO.519942])
+> Pierzyna, M., Hartogensis, O., Basu, S., and Saathof R. "Intercomparison of flux, gradient, and variance-based optical turbulence ($C_n^2$) parameterizations." _Applied Optics_, vol. 63, no. 16, 2024, pp. E107-E119. [https://doi.org/10.1364/AO.519942](https://doi.org/10.1364/AO.519942)
 
 The simulated and observed data discussed in our article and utilized by the plotting functions of this repository ([`eval`](eval)) are published on Zenodo
 
